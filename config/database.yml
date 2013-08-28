@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: project
+  password: postgres
+  encoding: unicode
+  
+
